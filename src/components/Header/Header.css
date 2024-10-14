@@ -1,0 +1,8 @@
+.header{
+    width: 100%;
+    min-height: 70px;
+    background: red;
+    float: left;
+    color: white;
+    font-size: 30px;
+}

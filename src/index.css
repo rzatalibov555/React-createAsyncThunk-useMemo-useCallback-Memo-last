@@ -1,0 +1,36 @@
+.cardStyle{
+    width: 300px;
+    min-height: 200px;
+    background: purple;
+    float: left;
+    color: white;
+    margin: 5px;
+}
+
+.loadingDiv{
+    width: 100%;
+    height: 100vh;
+    background: #1D8AE3;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loadingDiv img{
+    width: 200px;
+}
+
+.ErrorDiv{
+    width: 100%;
+    height: 100vh;
+    /* background: black; */
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ErrorDiv img{
+    width: 200px;
+}

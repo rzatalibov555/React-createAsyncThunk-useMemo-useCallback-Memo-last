@@ -1,0 +1,8 @@
+.footer{
+    width: 100%;
+    min-height: 70px;
+    background: blue;
+    float: left;
+    color: white;
+    font-size: 30px;
+}
